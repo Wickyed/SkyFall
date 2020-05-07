@@ -16,7 +16,7 @@ Here is the layout of the project :
 
 List of the team members with all the roles played during the contest
 
-- Thomas Shamoun - Mechanical engineering
+- Thomas Shamoun - Mechanical engineering + Business Analyst
 - Youssouf Drif - Electrical and Computer Science engineering + Video editing
 - Félix Dallidet - Computer Science engineering
 - Khalid El Ghaoui - Mechanical and Electrical engineering
